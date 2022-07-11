@@ -54,7 +54,7 @@ let object={propriedadel:'valori',propriedade2:'valor2',propriedade3:'valor3',}
 for(iof object.propriedade1){
     console.log(i);
 }*/
-
+/*
 var a = 0;
 while(a < 10){
     a++;
@@ -63,4 +63,4 @@ while(a < 10){
 do  {
     a++;
     console.log(a);
-} while(a < 10);
+} while(a < 10);*/

@@ -16,7 +16,12 @@ console.log(frase.tolowerCase());
 alert(frase.replace("Japão","Brasil"));*/
 
 var lista = ["maça","uva","pera","laranja"];
-lista.push("uva");
-lista.pop("uganda");
+lista.push("uganda");
+lista.pop("laranja");
 
 console.log(lista);
+console.log(lista.length);
+console.log(lista.reverse);
+console.log(lista[1]);
+console.log(lista.toString);
+console.log(lista.join(" - "));

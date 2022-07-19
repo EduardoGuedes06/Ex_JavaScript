@@ -46,3 +46,9 @@ var conta;
 for (conta=0;conta=50;conta++){
     console.log(conta);
 }
+
+var d = new Date();
+alert(d);
+alert(d.getHours());
+alert(d.getDay());
+alert(d.getMinutes());

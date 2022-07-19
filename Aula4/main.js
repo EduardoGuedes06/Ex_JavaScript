@@ -41,7 +41,6 @@ while (count <= 5){
     console.log(count);
     count++;
 }
-*/
 var conta;
 for (conta=0;conta<=5;conta++){
     console.log(conta);
@@ -52,3 +51,16 @@ alert(d);
 alert(d.getHours());
 alert(d.getDay());
 alert(d.getMinutes());
+*/
+
+function botao(){
+    document.getElementById("agradecimento").innerHTML="Obrigado por Clicar";
+}
+
+function redirecionar(){
+    window.location.href="https://github.com/EduardoGuedes06/Ex_JavaScript/tree/web";
+}
+
+function trocar(elemento){
+    elemento.innerHTML = "Passe o mouse aq"
+}
